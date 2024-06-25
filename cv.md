@@ -1,8 +1,8 @@
 ## Dmitry Bondarev
 
 ### Work Experience:
-* IFNS of Rissia
-* MIAC
+* IFNS of Rissia - Chief State Inspector of the Office Control Department
+* MIAC - economist of the information systems operation department
 
 ### Skills:
 * HTML&CSS
