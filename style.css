@@ -54,10 +54,6 @@
   h2 {
     font-size: 18px;
   }
-
-h3 {
-    
-}
   
   main {
     margin: 20px auto;
@@ -105,8 +101,4 @@ h3 {
   section {
     width: 100%;
     column-count: 3;
-  }
-
-  .footer-link {
-    
   }
